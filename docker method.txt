@@ -1,0 +1,7 @@
+docker image ls
+
+untuk download
+docker image pull mysql:latest
+
+untuk hapus
+docker image rm mysql:latest
